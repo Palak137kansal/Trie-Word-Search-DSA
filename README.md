@@ -23,9 +23,6 @@ This Java-based project reads a large text file and efficiently indexes every wo
 
 ---
 
-
----
-
 ##  Technologies Used
 
 - Java 11+
@@ -57,6 +54,6 @@ This Java-based project reads a large text file and efficiently indexes every wo
 ##  Author
 
 **Palak Kansal**  
-B.Tech CSE @ The NorthCap University  
- Linkedin: [https://www.linkedin.com/in/palak-kansal-52540322a/] 
- Email: [palakkansal137@gmail.com]
+B.Tech CSE @ The NorthCap University   
+Linkedin: [https://www.linkedin.com/in/palak-kansal-52540322a/] 
+Email: [palakkansal137@gmail.com]
